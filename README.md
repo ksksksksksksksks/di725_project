@@ -18,7 +18,7 @@ This repository contains the code for a two-phase study on integrating textual d
 
 ## Links
 
-- **W&B dashboard:** [here]([https://wandb.ai/ksen1a-princeton-university/METUCENG501](https://wandb.ai/e278979-metu-middle-east-technical-university/di725-project/workspace?nw=gj32ledushe))  
+- **W&B dashboard:** [here](https://wandb.ai/e278979-metu-middle-east-technical-university/di725-project/workspace?nw=gj32ledushe)  
   (training curves, per-class IoU, experiment tracking)
 - **Project reports:** included in the repository as `report_ph?.pdf`
 
