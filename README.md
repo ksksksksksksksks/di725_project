@@ -13,7 +13,7 @@ This repository contains the code for a three-phase study on integrating textual
 ## Key Files
 
 - `di725_poc.ipynb` – **initial feasibility experiment (proof of concept)**
-- `di725-ph_2.ipynb` – **Phase 2 benchmark notebook (full multi-modal training)**
+- `di725_ph2.ipynb` – **Phase 2 benchmark notebook (full multi-modal training)**
 - `di725_ph3_ablation.ipynb` – **Phase 3 ablation study (shuffled captions, mIoU comparison, final plots)**
 - `report_final.pdf` – **final project report (4 pages, includes all phases)**
 
